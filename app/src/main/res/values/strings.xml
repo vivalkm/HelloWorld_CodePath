@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="lincoln_intro">Hello world! My name is Lincoln! This is a long introduction because there are many words here.</string>
+    <string name="button_text">Say Hello</string>
+    <string name="toastMsg">Hello to you too</string>
+    <string name="logTag">Hello World</string>
+    <string name="logMsg">Hello to you too</string>
+</resources>

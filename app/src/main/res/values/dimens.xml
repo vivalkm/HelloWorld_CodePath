@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "textMarginHorizontal">15dp</dimen>
+    <dimen name = "textMarginTop">10dp</dimen>
+    <dimen name = "mainImageMarginTop">30dp</dimen>
+    <dimen name = "mainImageWidth">300dp</dimen>
+    <dimen name = "mainImageHeight">300dp</dimen>
+
+</resources>
